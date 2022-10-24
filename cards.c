@@ -5,7 +5,7 @@ int main() {
   int val=0;
   if(card_name[0]=='K') {
     val= 10;
-  } else if(card_name[0]=='Q') 
+  } else if(card_name[0]=='Q') {
     val=10;
 } else if (card_name[0]=='J') {
   val = 10;
